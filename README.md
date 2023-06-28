@@ -1,10 +1,6 @@
 
                       
-                      
-                      
-                      
-                      
-                                        ***Future Ready Talent Project***
+                                         ***Future Ready Talent Project***
 
                                                 __PINKYBLUSH__
 
@@ -19,9 +15,9 @@ This web based application has been developed for the accomplishment of Future R
 **Project Demo Video URL** : https://youtu.be/j0dEJgzNJ8s
 
 ***Azure Technologies used for project***
--Language Studio
--Azure Bot Service
--Static Web Apps
+- Language Studio
+- Azure Bot Service
+- Static Web Apps
 
 **Features and Functionalities**
 
