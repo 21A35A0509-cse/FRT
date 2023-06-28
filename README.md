@@ -21,12 +21,12 @@ This web based application has been developed for the accomplishment of Future R
 
 **Features and Functionalities**
 
--Interactive and responsive UI.
--Has many graphical and  visual innovative effects.
--Have an aestheticaly pleasing visual design and architecture.
--Imparts web pages like HOME, ABOUT, SERVICES, CONTACT and a BOT.
--User can easily book appointment to the parlor and its services.
--Included embedded location of the parlor.
+- Interactive and responsive UI.
+- Has many graphical and  visual innovative effects.
+- Have an aestheticaly pleasing visual design and architecture.
+- Imparts web pages like HOME, ABOUT, SERVICES, CONTACT and a BOT.
+- User can easily book appointment to the parlor and its services.
+- Included embedded location of the parlor.
 
 **Screenshots**
 
@@ -58,9 +58,9 @@ This web based application has been developed for the accomplishment of Future R
 
 ### Tech Stack
 
--Azure(Hosting)
--HTML
--CSS
--Bootstrap
--JavaScript
+- Azure(Hosting)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
