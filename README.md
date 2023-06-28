@@ -1,10 +1,10 @@
-                      ******Future Ready Talent Project******
+                      ***Future Ready Talent Project***
 
                               __PINKYBLUSH__
 
 This is a web based application named PinkyBlush-A parlor and beauty spa which is a responsive website with bot.
 
-This web based application has been developed for the accomplishment of Future Ready Talent Internship Program launched by Future Skills Prmie,Microsoft. 
+This web based application has been developed for the accomplishment of Future Ready Talent Internship Program launched by Microsoft, Future Skills Prmie, GitHub. 
 
 **Project Link**(GitHub repository URL): https://github.com/21A35A0509-cse/FRT
 
@@ -52,4 +52,13 @@ This web based application has been developed for the accomplishment of Future R
 
 ![Screenshot (116)](https://github.com/21A35A0509-cse/FRT/assets/110163097/f133c402-c3c9-48e7-902b-6cc8078dd5b1)
 
+![Screenshot (117)](https://github.com/21A35A0509-cse/FRT/assets/110163097/4638cb8e-7c54-4c27-8fe4-7f02afae3a51)
+
+### Tech Stack
+
+-Azure(Hosting)
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
 
