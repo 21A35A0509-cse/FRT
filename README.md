@@ -1,1 +1,2 @@
-# FRT
+Future Ready Talent Project
+#PINKYBLUSH#
