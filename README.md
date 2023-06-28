@@ -1,10 +1,10 @@
-Future Ready Talent Project
+                      ******Future Ready Talent Project******
 
-                              PINKYBLUSH
+                              __PINKYBLUSH__
 
 This is a web based application named PinkyBlush-A parlor and beauty spa which is a responsive website with bot.
 
-This web based application has been developed for the accomplishment of Future Ready Talent Internship Program launched by Future Skills,Microsoft 
+This web based application has been developed for the accomplishment of Future Ready Talent Internship Program launched by Future Skills Prmie,Microsoft. 
 
 **Project Link**(GitHub repository URL): https://github.com/21A35A0509-cse/FRT
 
@@ -28,21 +28,28 @@ This web based application has been developed for the accomplishment of Future R
 
 **Screenshots**
 
-![Screenshot (107)](https://github.com/21A35A0509-cse/FRT/assets/110163097/f14e3f55-56b9-4a4b-a24e-369f2d0feca9)
+![Screenshot (112)](https://github.com/21A35A0509-cse/FRT/assets/110163097/aa766b83-025c-4f48-8264-8b9944c168e0)
 
 
 ### Home
-![Screenshot (107)](https://github.com/21A35A0509-cse/FRT/assets/110163097/d6719874-38e8-44a6-aade-b042459d0f00)
+![Screenshot (112)](https://github.com/21A35A0509-cse/FRT/assets/110163097/dcdc16d7-b7b3-492f-abc2-a71e9b9e2fe7)
+
 
 ### About
-![Screenshot (108)](https://github.com/21A35A0509-cse/FRT/assets/110163097/13ebd2c6-84fd-4edd-9053-53b64c39b867)
+
+
+![Screenshot (113)](https://github.com/21A35A0509-cse/FRT/assets/110163097/e0e08e44-5627-44ef-a50f-0a204f0d1442)
 
 ### Services
-![Screenshot (109)](https://github.com/21A35A0509-cse/FRT/assets/110163097/7f527575-747d-4724-a596-666a0b40ea67)
+
+![Screenshot (114)](https://github.com/21A35A0509-cse/FRT/assets/110163097/82b254f2-37d1-4792-99d8-c000df72f690)
 
 ### Contact
-![Screenshot (110)](https://github.com/21A35A0509-cse/FRT/assets/110163097/f19fb260-3a16-4096-9ce3-e19626d12631)
+
+![Screenshot (115)](https://github.com/21A35A0509-cse/FRT/assets/110163097/4d3429e0-2704-4965-8568-1c3e9b3d1caf)
 
 ### Bot
-![Screenshot (111)](https://github.com/21A35A0509-cse/FRT/assets/110163097/fc3531eb-d380-498e-84bf-2acef644ea0c)
+
+![Screenshot (116)](https://github.com/21A35A0509-cse/FRT/assets/110163097/f133c402-c3c9-48e7-902b-6cc8078dd5b1)
+
 
