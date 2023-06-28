@@ -1,6 +1,12 @@
-                      ***Future Ready Talent Project***
 
-                              __PINKYBLUSH__
+                      
+                      
+                      
+                      
+                      
+                                        ***Future Ready Talent Project***
+
+                                                __PINKYBLUSH__
 
 This is a web based application named PinkyBlush-A parlor and beauty spa which is a responsive website with bot.
 
