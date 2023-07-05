@@ -1,59 +1,56 @@
 # FEATURE READY TALENT
-✨ LIFESTYLE ✨
+✨ PINKYBLUSH ✨
 
-This is a web-based application developed for INTERIOR AESTHETICS. 
+This is a web-based application developed for FUTURE READY TALENT PROJECT. 
 
-### This web-based restaurant application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web-based Parlor application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://kind-dune-0882ee710.3.azurestaticapps.net
-**Project Demo video Link** - [https://www.youtube.com/watch?v=s0Qr_4YTvT4](https://youtu.be/_plB32sHYjs)
+**Project Link** - https://21a35a0509-cse.github.io/FRT/index.html
+**Project Demo video Link** - https://youtu.be/j0dEJgzNJ8s
 
 
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has a collection of many web pages including Home, About Us, Services, Categories, Chatbot, Contact  etc.
-- Users can know about health information through this website.
+- Have an aesthetically pleasing visual design.
+- Has a collection of many web pages including Home, About Us, Services,   Contact, Chatbot  etc.
+- Users can know about skin care information through this website.
 
 ## Screenshots
 
-Our goal is to make one's home look better and feel better with a minimum budget.
+Our goal is to make one look beautiful.
 
-![1](https://github.com/21A35A0508/FRT/assets/110163857/d088beb2-2efd-4d85-8079-3fa056993a18)
 
+
+![Screenshot (112)](https://github.com/21A35A0509-cse/FRT/assets/110163097/a7700aba-1d23-46e0-9609-a1ec1ed28049)
 
 ### About Us -
 
-The mission Is To Design The Best Interior Around
+The mission is to  provide organic skin care
 
-![2](https://github.com/21A35A0508/FRT/assets/110163857/1311b2f0-b9a8-4ca2-bb26-daedfcb10313)
-![3](https://github.com/21A35A0508/FRT/assets/110163857/d75c7f28-e3e8-4321-a67e-75572fc9a30e)
+
+![Screenshot (113)](https://github.com/21A35A0509-cse/FRT/assets/110163097/ab8c8e90-35ca-412c-b13a-591bae556992)
 
 ### Services -
+Focuses on various services
 
-Focuses on various services like- Interior
-
-![5](https://github.com/21A35A0508/FRT/assets/110163857/a53bc9b0-99eb-43ef-98fd-8348322f73c7)
+![Screenshot (114)](https://github.com/21A35A0509-cse/FRT/assets/110163097/0e452992-b21c-42b1-869c-8dab53582ade)
 
 
-### Categories - 
+### Contact -
 
-![7](https://github.com/21A35A0508/FRT/assets/110163857/cdec2c06-c3f7-4f5c-a2da-48dc496bae78)
+
+![Screenshot (115)](https://github.com/21A35A0509-cse/FRT/assets/110163097/d5830443-dd33-4bbe-b652-6b7ff403d594)
 
 ### Chatbot -
 
 Virtual Assistance
 
-![9](https://github.com/21A35A0508/FRT/assets/110163857/5660ff58-c118-40fc-af13-0267f682a8dc)
+![Screenshot (116)](https://github.com/21A35A0509-cse/FRT/assets/110163097/c50404d4-3c58-449f-a813-f754b9e11a68)
 
-### Contact -
-
-
-![10](https://github.com/21A35A0508/FRT/assets/110163857/1ca1cfc8-3a31-4744-a33d-f36e45f220c5)
-
+![Screenshot (117)](https://github.com/21A35A0509-cse/FRT/assets/110163097/d2775dfd-1794-4ada-a2d0-da65e45d2984)
 
 
 ## Tech Stack 💻
