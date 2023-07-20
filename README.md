@@ -1,4 +1,4 @@
-# FEATURE READY TALENT
+# FUTURE READY TALENT
 ✨ PINKYBLUSH ✨
 
 This is a web-based application developed for FUTURE READY TALENT PROJECT. 
